@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rajdeep</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajdeepsingh10" alt="rajdeepsingh10" /></a> </p>
 
 - 🔭 I’m currently working on **Ecommerce-product-recommendation-system using ML**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Neural Networks**
 
 - 💬 Ask me about **Excel, Python, SQL, Tableau, Data Visualization, Data Analysis, Data Cleaning, Database Management System, Machine Learning**
 
