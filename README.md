@@ -41,7 +41,7 @@ const rajdeep = {
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "Microservices architecture",
-    funFact: "There are two ways to write error-free programs; only the third one works !"
+    funFact: "There are two ways to write error-free programs; only the third one works 😉 !"
 };
 ```
 
