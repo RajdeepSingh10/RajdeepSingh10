@@ -29,7 +29,7 @@ npx rajdeep
 ```javascript
 const rajdeep = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
+    code: ["Javascript", "Python", "Java", "CSS"],
     askMeAbout: ["web dev", "tech", "machine learning", "cars"],
     technologies: {
         backEnd: {
@@ -37,6 +37,7 @@ const rajdeep = {
         },
         devOps: ["AWS", "Docker🐳", "Kubernetes"],
         databases: ["mongo", "MySql"],
+        libraries: ["Numpy", "Pandas", "Matplotlib", "Seaborn", "Scikit", "Keras"]
         
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
